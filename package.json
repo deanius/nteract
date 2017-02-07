@@ -114,7 +114,6 @@
   },
   "greenkeeper": {
     "ignore": [
-      "eslint-plugin-jsx-a11y",
       "eslint-plugin-import",
       "eslint-plugin-jsx-a11y",
       "eslint-plugin-react",
